@@ -30,6 +30,7 @@ A custom Lua telemetry script for **Taranis X9D (monochrome)** transmitters, ori
 With **EdgeTX**, place the files here on your SD card:
 
 /SCRIPTS/TELEMETRY/TWTL12.LUA
+
 /SCRIPTS/BMP/
 
 > 📢 **Note:** Maximum filename length is **6 characters** on Taranis monochrome radios.
