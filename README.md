@@ -33,7 +33,7 @@ With **EdgeTX**, place the files here on your SD card:
 
 /SCRIPTS/BMP/
 
-> 📢 **Note:** Maximum filename length is **6 characters** on Taranis monochrome radios.
+> 📢 **Note:** Maximum filename length is **6 characters**
 
 ---
 
